@@ -11,39 +11,54 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Unity
+  logo: /images/sections/skills/unityblack.svg
+  summary: "Understand the basic workflow of Unity engine and capable of scripting the editor to make design workflow easier. Also familar with managing Prefabs and Scriptable Objects for a more streamlined content management."
+  url: "https://unity.com/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: Roblox Studio
+  logo: /images/sections/skills/robloxstudio.svg
+  summary: "Familiar with Roblox Studio and capable of blockout a detailed game level to properly convey the design idea to artists and programmers."
+  url: "https://create.roblox.com/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Google Sheet
+  logo: /images/sections/skills/gsheet.svg
+  summary: "Experienced in crafting complicated formulae to manipulate various tables for the purpose of balancing the game with simulated progression system. All while ensuring excellent readability for different roles such as managers / programmers / designers"
+  url: "https://workspace.google.com/products/sheets/"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Programming
+  # logo: /images/sections/skills/git.png
+  summary: "Experienced in C++, C#, Java, Python, JavaScript, SQL, and LUA. Beginner in some others. Familiar with general programming concepts such as data structure, OOP, sorting algorithm, tasks scheduling, design patterns, error handling, diagrams such as UML and ERD. Able to quickly pick up most new languages."
+  # url: "https://example.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Editing Software
+  # logo: /images/sections/skills/c++.png
+  summary: "Intermediate level in understanding common text, graphic and audio editing softwares such as Google Doc, Notion, Notepad++, Paint.NET, Photoshop, and Audacity. Beginner in IDEs such as Visual Studio and GlassFish."
+  # url: "https://example.com/"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Homelab
+  logo: /images/sections/skills/homelab.png
+  summary: "Capable of setting up Hyper-V with varied guest OS, and setting up Docker containers with Docker-Compose to host several applications, such as NGINX Proxy Manager and Portainer"
+  url: "https://www.reddit.com/r/homelab/"
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: Cloudflare
+  logo: /images/sections/skills/cloudflare.svg
+  summary: "Experienced in setting up DNS records for both websites and email, securing the origin server with CA certificates, as well as hosting JAMStacks on Cloudflare Pages. Adequate understanding in configuring Cloudflare DDNS and Cloudflare Zero Trust Tunnels in the case where security is needed or server is locked behind a CGNAT."
+  url: "https://www.cloudflare.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: IT Support
+  # logo: /images/sections/skills/c++.png
+  summary: "Know how to perform diagnostic on general IT issues such as network DHCP, drivers and dependencies, PATH and environment variables, audio routing, and a bit on power safety. Also familiar with using services such as whois lookup to identify the legitimacy of an email / URL."
+  # url: "https://example.com/"
+
+- name: Et Cetera
+  # logo: /images/sections/skills/c++.png
+  summary: "Jira, Git, Markdown, YAML, basic music theory, bass guitar, piano / keyboard , mechanical keyboards, warships, aircrafts, motorsport, guns mechanism, cats, succulents, password managers, props making, martial arts, mathematics, Android Debug Bridge, etc. Technically many of these are interest rather than skills but these knowledge could be helpful for a Game Designer."
+  # url: "https://example.com/"
+
+
+
+# - name: Email Deliverability
+  # logo: /images/sections/skills/git.png
+  # summary: "Capable in configuring SPF, DKIM and DMARC records to ensure a smooth email deliverability, while making sure emails get a low spam score to avoid being labbeled as one."
+  # url: "https://example.com/"

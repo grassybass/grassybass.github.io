@@ -8,94 +8,140 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: "I'm a Senior Game Designer ..."
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
+# company:
+  # name: "Example"
+  # url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
+resourceLinks:
+- title: Resume
+  url: "https://s3.yongkhang.com/LimYongKhang-GameDesigner.pdf"
+
+
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: |
+      … with over 7 years of experience in crafting polished games with fun mechanics and engaging monetization strategies. Throughout the years I had the oppoturnity to lead or co-design several amazing titles with Unity on mobile platform, most notably, Ejen Ali: Emergency, Ejen Ali: Agents’ Arena, Komuniti Kita, and recently, Titan Heroes, on Roblox platform.
+      
+      I am adept at writing Game Design Documents and crafting formulae on Google Sheet to simulate and balance the game progression, while working closely with programmers, artists, and producer and come up with seamless solutions for any difficulties, be it technical, time constraint, or engagement / retention KPIs.
+      
+      During my free time I also like to tinker with technological stuff such as running nginx and some tools via Docker container over Hyper-V, with my own domain with SSL set up on Cloudflare. I also run my main email account over a catch-all vanity domain for privacy reasons. For security part, I use a password manager and set up 2FA with YubiKeys whenever possible.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
-
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "hi@yongkhang.com"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/yk-lim"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/grassybass"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Stackoverflow
+  # icon: "fab fa-stack-overflow"
+  # url: "#"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+# - name: Twitter
+  # icon: "fab fa-twitter"
+  # url: "#"
 
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+# - name: Facebook
+  # icon: "fab fa-facebook"
+  # url: "#"
+
+# - name: Mastadon
+  # icon: "fab fa-mastodon"
+  # url: "#"
+  # rel: "me noopener"
+
+# - name: ResearchGate
+  # icon: "fab fa-researchgate"
+  # url: "https://example.com"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
-resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+# resourceLinks:
+# - title: "My Resume"
+  # url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+# - type: certification
+  # name: Certified Kubernetes Security Specialist
+  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  # badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
-- type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+# - type: certification
+  # name: Istio and IBM Cloud Kubernetes Service
+  # url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  # badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
 
-- type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+# - type: certification
+  # name: Artificial Intelligence and Machine Learning
+  # url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  # badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: soft-skill-indicator
+  name: Creativity
+  percentage: 90
+  color: "#f5ca7c"
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 85
+  color: "#7c85f4"
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
-  color: blue
+  percentage: 80
+  color: "#f9899d"
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+  name: English
+  percentage: 75
+  color: "#93c7f6"
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Mandarin Chinese
   percentage: 85
-  color: orange
+  color: "#f7e092"
+
+- type: soft-skill-indicator
+  name: Bahasa Melayu
+  percentage: 80
+  color: "#b6f98b"
+
+- type: soft-skill-indicator
+  name: Japanese
+  percentage: 30
+  color: "#f38af4"
+
+- type: soft-skill-indicator
+  name: General IT Knowledge
+  percentage: 75
+  color: "#94f6cc"
+
+- type: soft-skill-indicator
+  name: Privacy / Security Practices
+  percentage: 80
+  color: "#968bf3"
+
+# color template used:
+# https://colorkit.co/color-palette-generator/f7e092-7c85f4-f9899d-89f5a5-c0ef7f-7bf1f1/
+# https://colorkit.co/color-palette-generator/93c7f6-f5ca7c-8bf9c5-f38af4-9080ee-f27c9c/
+# https://colorkit.co/color-palette-generator/94f6cc-f67d9b-b6f98b-968bf3-82d3ed-df7df1/
+
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

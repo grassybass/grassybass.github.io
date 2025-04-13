@@ -1,0 +1,31 @@
+---
+title: "Project Puzzle"
+date: 2024-07-08T13:36:08+08:00
+draft: true
+
+description:
+
+author:
+  name: Yong Khang
+
+hero: /images/jujuballs.jpg
+menu:
+  sidebar:
+    name: "Project Puzzle"
+    identifier: project-puzzle
+    weight: 60
+    parent: projects
+tags:
+  - Unity
+---
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr><td>Role</td>					<td>Lead Designer</td>
+  <tr><td>Company</td>				<td>Undisclosed</td>
+  <tr><td>Year Involved</td>		<td>2021 - 2023</td>
+  <tr><td>Link</td>		<td><a href="https://example.com">View on Store</a></td>
+</table>
+
+---
+
+

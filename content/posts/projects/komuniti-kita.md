@@ -1,0 +1,34 @@
+---
+title: "Komuniti Kita"
+date: 2024-07-07T23:18:56+08:00
+draft: true
+
+description:
+
+author:
+  name: Yong Khang
+
+hero: /images/jujuballs.jpg
+menu:
+  sidebar:
+    name: "Komuniti Kita"
+    identifier: komuniti-kita
+    weight: 20
+    parent: projects
+tags:
+  - Unity
+  - Android
+  - iOS
+---
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr><td>Role</td>					<td>Designer</td>
+  <tr><td>Company</td>				<td>Common Extract</td>
+  <tr><td>Year Involved</td>		<td>2019 - 2020</td>
+  <tr><td>Link</td>		<td><a href="https://play.google.com/store/apps/details?id=com.commonextract.komunitikita">View on Google Play</a></td>
+  <tr><td>Link</td>		<td><a href="https://apps.apple.com/my/app/komuniti-kita/id1585603952">View on Apple App Store</a></td>
+</table>
+
+---
+
+

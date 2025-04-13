@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Achievements
+  name: Activities
   id: achievements
   enable: true
   weight: 10
@@ -10,15 +10,27 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+
+- title: "Premier of Ejen Ali the Movie"
+  image: /images/sections/participations/2019-eam-group.jpg
+  summary: "Invited to the premier of Ejen Ali the Movie. Were also having a small booth to showcase our early build of Ejen Ali: Agents' Arena to  the participants."
+
+- title: "Level UP KL 2019"
+  image: /images/sections/participations/2019-lvlupkl-group.jpg
+  summary: "Attending various talks while also having a booth there to showcase our early build of mobile title Ejen Ali: Agents' Arena."
+
+- title: "2016 Unite Conference"
+  image: /images/sections/participations/2016-unite.jpg
+  summary: "Attended Unite Conference in Singapore."
+
+- title: "DJM Company Trip"
+  image: /images/sections/participations/2017-trip.jpg
+  summary: "A company trip near Genting with the rest of Dutajaya Media members"
+
+- title: "Attending a Talk by Wan Hazmer"
+  image: /images/sections/participations/2016-wan.jpg
+  summary: "Attended a talk by Wan Hazmer, a local Game Designer who worked for Square Enix, notably in the tital Final Fantasy XV"
+
+- title: "Launching of Ejen Ali"
+  image: /images/sections/participations/2016-ea.jpg
+  summary: "Invited to the Launch Ceremoney of Ejen Ali TV animation in Ruang, Shah Alam. The prototype of mobile game Ejen Ali: Emergency that I'had been designing for were also being featured."
